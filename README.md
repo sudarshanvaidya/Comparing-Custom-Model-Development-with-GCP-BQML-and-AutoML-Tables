@@ -4,17 +4,17 @@ Comparing Custom Model Development on Python Jupyter notebook with Google Cloud 
 Background:
 
 
-I always had a curiosity about the automatic ML on cloud platforms - 
+I always had a curiosity about the Automatic Machine Learning on cloud platforms - 
 
-Can they build faster, accurate and better models than I, as a data scientist or Machine Learning Engineer, can ever build? 
+1. Can they build faster, accurate and better models than I, as a data scientist or Machine Learning Engineer, can ever build? 
 
-Are they transparent and explainable with respect to the transformations applied, the algorithms used or the optimal hyper-parameters chosen? 
+2. Are they transparent and explainable with respect to the transformations applied, the algorithms used or the optimal hyper-parameters chosen? 
 
-Is it a tool that I can rely on? Or is it a competitor, a threat to me as a data scientist or ML engineer?   
+3. Is it a tool that I can rely on? Or is it a competitor, a threat to me as a data scientist or ML engineer?   
 
-Are they a replacement for Data Scientists / ML Engineers? Or just a quick enabler for Business Analysts? 
+4. Are they a replacement for Data Scientists / ML Engineers? Or just a quick enabler for Business Analysts? 
 
-I wanted to try them out myself, and find out when we should use custom machine learning models and when to depend on cloud based automatic machine learning. 
+I wanted to try out these tools myself, and find out when we should use custom machine learning models and when to depend on cloud based automatic machine learning. 
 
 
 
