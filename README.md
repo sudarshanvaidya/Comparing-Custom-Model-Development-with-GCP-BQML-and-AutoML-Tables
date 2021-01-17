@@ -1,7 +1,7 @@
 # Comparing-Custom-Model-Development-with-GCP-BQML-and-AutoML-Tables
 Comparing Custom Model Development on Python Jupyter notebook with Google Cloud Platform BigQuery Machine Learning and AutoML Tables (beta)
 
-Background
+Background:
 
 
 I always had a curiosity about the automatic ML on cloud platforms - 
@@ -18,7 +18,8 @@ I wanted to try them out myself, and find out when we should use custom machine 
 
 
 
-Experiment Set Up  
+
+Experiment Set Up: 
 
 I selected a tiny dataset to start with - 
 Data Source: https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/
